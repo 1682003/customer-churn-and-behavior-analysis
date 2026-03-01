@@ -149,4 +149,17 @@ This project demonstrates the ability to convert raw data into meaningful insigh
 - Deploy dashboard to cloud platform
 - Automate data pipeline
 - Integrate real-time data sources
-- Enhance predictive analytics models
+- Enhance predictive analytics
+- 
+## Key Insights
+
+- Customers aged 25–34 showed highest purchase frequency.
+- Customers inactive for >90 days showed higher churn probability.
+- Loyalty program members had lower churn rates.
+- Peak purchasing occurred during weekends.
+
+- 
+Author: Anuj Mulha Tamrakar  
+LinkedIn: your-link  
+GitHub: https://github.com/1682003
+

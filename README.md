@@ -1,10 +1,12 @@
-# 👨🏻‍💻 Customer Churn and Behavior Analysis | End-to-End Data Analytics Project
 
+## Business Problem
+
+A retail company observed declining repeat purchases and increasing customer inactivity. This project analyzes customer purchase data to identify churn patterns, understand behavioral trends, and provide actionable insights to improve retention.
+
+# 👨🏻‍💻 Customer Churn and Behavior Analysis | End-to-End Data Analytics Project
 This project demonstrates a complete end-to-end data analytics workflow designed to replicate real-world business scenarios. The objective is to analyze customer shopping behavior, identify churn patterns, and generate actionable insights that support data-driven decision-making.
 
 The project showcases the full analytics lifecycle, including data cleaning, exploratory data analysis, SQL-based business analysis, interactive dashboard creation, and business reporting.
-
----
 
 ## 📌 Project Objective
 
